@@ -11,3 +11,4 @@ Flower.create(name: 'summer', image: 'https://hips.hearstapps.com/hmg-prod.s3.am
 Flower.create(name: 'fall', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fall-flower-arrangement-moon-canyon-veranda-1562778296.jpeg', cost: '$250')
 Flower.create(name: 'winter', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFfuXS-WcVrkN2JHZ3Hoi_u-zuLa5nHICMnA&usqp=CAU', cost: '$250')
 Flower.create(name: 'birthday', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pink-spring-diy-flower-arrangement-1556650367.jpg', cost: '$250')
+Flower.create(name: 'anniversary', image: 'https://flowermag.com/wp-content/uploads/2017/04/winward1-989x1000.jpg', cost: '$250')
