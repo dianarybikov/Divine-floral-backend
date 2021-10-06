@@ -6,3 +6,4 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 Flower.create(name: 'spring', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/closeup-jpg-1614830517.jpg', cost: '$250')
+Flower.create(name: 'summer', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/christin-geall-1556158724.jpeg?crop=1xw:1xh;center,top&resize=480:*', cost: '$250')
