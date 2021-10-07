@@ -16,3 +16,4 @@ Flower.create(name: 'roses', image: 'https://encrypted-tbn0.gstatic.com/images?q
 Flower.create(name: 'just cuz', image: 'https://www.shadesofblueinteriors.com/wp-content/uploads/2018/04/FlowerArrangement1.jpg', cost: '$250')
 Flower.create(name: 'just cuz', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVO1m0muli9nKrmQJ9xcsDJbrIQaqjBX2vQ&usqp=CAU', cost: '$250')
 Flower.create(name: 'just cuz', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvElaRqX7CXTjFjlewC0j3DebFVIXQrWToxw&usqp=CAU', cost: '$250')
+Flower.create(name: 'just cuz', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4uCG4uqJq2AbzHolxq7xC27ZMSeTCFvhrA&usqp=CAU', cost: '$250')
