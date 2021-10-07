@@ -14,3 +14,4 @@ Flower.create(name: 'birthday', image: 'https://hips.hearstapps.com/hmg-prod.s3.
 Flower.create(name: 'anniversary', image: 'https://flowermag.com/wp-content/uploads/2017/04/winward1-989x1000.jpg', cost: '$250')
 Flower.create(name: 'roses', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrncVM77Uns589w87BaYquXv5Dnhf8eBlEyg&usqp=CAU', cost: '$250')
 Flower.create(name: 'just cuz', image: 'https://www.shadesofblueinteriors.com/wp-content/uploads/2018/04/FlowerArrangement1.jpg', cost: '$250')
+Flower.create(name: 'just cuz', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVO1m0muli9nKrmQJ9xcsDJbrIQaqjBX2vQ&usqp=CAU', cost: '$250')
