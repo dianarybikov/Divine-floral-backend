@@ -23,3 +23,4 @@ Flower.create(name: 'Pinks', image: 'https://images.squarespace-cdn.com/content/
 Flower.create(name: 'The wild', image: 'https://flowermag.com/wp-content/uploads/2018/01/buffy-miller4.jpg', cost: '$170')
 Flower.create(name: 'Sympathy', image: 'https://cdn.shopify.com/s/files/1/0434/9902/8629/products/FLOWERSWGMedium1_db2bef5e-046d-4e27-8f7e-5f65071f6433_1000x1000.jpg?v=1599796928', cost: '$100')
 Flower.create(name: 'The blues', image: 'https://assets.eflorist.com/site/19366300/assets/products/PHR_/sku7440049.jpg', cost: '$120')
+Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkULZFgN6gYzGBxuoJJpreHzyuzcQa4eh8g&usqp=CAU', cost: '$150')
