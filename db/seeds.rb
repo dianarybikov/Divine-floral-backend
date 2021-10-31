@@ -18,7 +18,7 @@ Flower.create(name: 'just cuz', image: 'https://encrypted-tbn0.gstatic.com/image
 Flower.create(name: 'just cuz', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvElaRqX7CXTjFjlewC0j3DebFVIXQrWToxw&usqp=CAU', cost: '$150')
 Flower.create(name: 'just cuz', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4uCG4uqJq2AbzHolxq7xC27ZMSeTCFvhrA&usqp=CAU', cost: '$100')
 Flower.create(name: 'Dry', image: 'https://w3h9u7b9.stackpathcdn.com/wp-content/uploads/2021/03/small-pampas-bouquet-680x907.jpg', cost: '$80')
-Flower.create(name: 'liliac maddness', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simple-lilac-bouquet-1556648030.jpg', cost: '$160')
+Flower.create(name: 'liliac maddness', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/simple-lilac-bouquet-1556648030.jpg', cost: '$140')
 Flower.create(name: 'Pinks', image: 'https://images.squarespace-cdn.com/content/v1/598114ee579fb353a70cdfc6/1523051759016-VAO2B4T60NWREBP22YKS/1d33d3d134b9ebdda4205754c9bd75f4.jpg', cost: '$100 - $160')
 Flower.create(name: 'The wild', image: 'https://flowermag.com/wp-content/uploads/2018/01/buffy-miller4.jpg', cost: '$170')
 Flower.create(name: 'Sympathy', image: 'https://cdn.shopify.com/s/files/1/0434/9902/8629/products/FLOWERSWGMedium1_db2bef5e-046d-4e27-8f7e-5f65071f6433_1000x1000.jpg?v=1599796928', cost: '$100')
