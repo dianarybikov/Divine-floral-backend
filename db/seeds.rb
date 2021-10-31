@@ -29,7 +29,7 @@ Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/im
 Flower.create(name: 'No name yet', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vertical-jpl-klp-002-1564000921.jpg', cost: '$150')
 Flower.create(name: 'No name yet', image: 'https://i.pinimg.com/originals/b6/b6/c6/b6b6c694cffb4e8016cd2d30c70923b9.jpg', cost: '$150')
 Flower.create(name: 'No name yet', image: 'https://res.cloudinary.com/social-upload-prod-home-media-cld/image/upload/magnolia-wordpress/2019/04/image4-1.jpg', cost: '$150')
-Flower.create(name: 'No name yet', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fall-flower-arrangement-moon-canyon-veranda-1562780238.jpeg?crop=0.751xw:1.00xh;0.0847xw,0&resize=640:*', cost: '$150')
+Flower.create(name: 'No name yet', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fall-flower-arrangement-moon-canyon-veranda-1562780238.jpeg?crop=0.751xw:1.00xh;0.0847xw,0&resize=640:*', cost: '$120')
 Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JZI1dHxEgOmQE_Ua51GxwiR_QmWQwFX5QA5MlQ6eDeO3b-kiUlHQWg316PN5rD7iWlQ&usqp=CAU', cost: '$100')
 Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl_M7o8lpYxk99bumbSQtT3GmdKCW11tBbyS3YbfQSgSmkz7g7M16jAn-imZ-HgGdlOrM&usqp=CAU', cost: '$90')
 Flower.create(name: 'No name yet', image: 'https://www.dgflowerstudio.com/wp-content/uploads/2020/05/thumbnail-3.jpg', cost: '$150')
