@@ -25,7 +25,7 @@ Flower.create(name: 'Sympathy', image: 'https://cdn.shopify.com/s/files/1/0434/9
 Flower.create(name: 'The blues', image: 'https://assets.eflorist.com/site/19366300/assets/products/PHR_/sku7440049.jpg', cost: '$120-$80')
 Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkULZFgN6gYzGBxuoJJpreHzyuzcQa4eh8g&usqp=CAU', cost: '$150-$100')
 Flower.create(name: 'No name yet', image: 'https://i.pinimg.com/originals/71/c0/9d/71c09d06244c90110f4cdbb2389c6723.jpg', cost: '$150-$100')
-Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wROnXu2wm8v3npkjfP0MegeLDGqy7r7mCg&usqp=CAU', cost: '$160')
+Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wROnXu2wm8v3npkjfP0MegeLDGqy7r7mCg&usqp=CAU', cost: '$160-$120')
 Flower.create(name: 'No name yet', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vertical-jpl-klp-002-1564000921.jpg', cost: '$150')
 Flower.create(name: 'No name yet', image: 'https://i.pinimg.com/originals/b6/b6/c6/b6b6c694cffb4e8016cd2d30c70923b9.jpg', cost: '$130')
 Flower.create(name: 'No name yet', image: 'https://res.cloudinary.com/social-upload-prod-home-media-cld/image/upload/magnolia-wordpress/2019/04/image4-1.jpg', cost: '$100')
