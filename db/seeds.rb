@@ -23,7 +23,7 @@ Flower.create(name: 'Pinks', image: 'https://images.squarespace-cdn.com/content/
 Flower.create(name: 'The wild', image: 'https://flowermag.com/wp-content/uploads/2018/01/buffy-miller4.jpg', cost: '$170-$100')
 Flower.create(name: 'Sympathy', image: 'https://cdn.shopify.com/s/files/1/0434/9902/8629/products/FLOWERSWGMedium1_db2bef5e-046d-4e27-8f7e-5f65071f6433_1000x1000.jpg?v=1599796928', cost: '$100-$90')
 Flower.create(name: 'The blues', image: 'https://assets.eflorist.com/site/19366300/assets/products/PHR_/sku7440049.jpg', cost: '$120-$80')
-Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkULZFgN6gYzGBxuoJJpreHzyuzcQa4eh8g&usqp=CAU', cost: '$150')
+Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkULZFgN6gYzGBxuoJJpreHzyuzcQa4eh8g&usqp=CAU', cost: '$150- $100')
 Flower.create(name: 'No name yet', image: 'https://i.pinimg.com/originals/71/c0/9d/71c09d06244c90110f4cdbb2389c6723.jpg', cost: '$150')
 Flower.create(name: 'No name yet', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8wROnXu2wm8v3npkjfP0MegeLDGqy7r7mCg&usqp=CAU', cost: '$160')
 Flower.create(name: 'No name yet', image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vertical-jpl-klp-002-1564000921.jpg', cost: '$150')
